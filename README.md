@@ -4,8 +4,8 @@ Live neon glow effects on your webcam, the Yeat-music-video look. Launch it and 
 
 ## Get the .exe (Windows)
 
-1. On GitHub, open the **Actions** tab, click the latest green **Build Windows exe** run, and download **WebcamFX-windows** under *Artifacts*. It's a zip with `WebcamFX.exe` inside.
-   (If you push a tag such as `v1.0`, the exe is also attached to a Release.)
+1. Download the latest build: **[WebcamFX.exe](https://github.com/rezwansdq/webcameffects/releases/latest/download/WebcamFX.exe)**
+   (or go to the repo's **Releases** page). A new build is published automatically every time `main` changes.
 2. Double-click `WebcamFX.exe`.
    - The first launch takes ~10 s while it unpacks.
    - Windows SmartScreen may warn about an unknown app (it isn't code-signed). Click **More info → Run anyway**.
